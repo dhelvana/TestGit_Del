@@ -16,5 +16,10 @@ namespace TestGitConsole
         {
             return 1;
         }
+
+        public string AddedByDev2()
+        {
+            return String.Empty;
+        }
     }
 }
