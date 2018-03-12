@@ -12,7 +12,7 @@ namespace TestGitConsole
         {
         }
 
-        public int testGetDevChanges()
+        public string testGetDevChanges()
         {
             return 1;
         }
