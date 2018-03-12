@@ -11,5 +11,10 @@ namespace TestGitConsole
         static void Main(string[] args)
         {
         }
+
+        public int testGetDevChanges()
+        {
+            return 1;
+        }
     }
 }
